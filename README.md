@@ -43,3 +43,5 @@
 * ranger
 * feh
 
+**Install:**
+`yay -S - <packages.txt`
