@@ -45,3 +45,6 @@
 
 **Install:**
 `yay -S - <packages.txt`
+
+**Set SDDM Theme:**
+`sudo cp sddm.conf /etc/sddm.conf`
